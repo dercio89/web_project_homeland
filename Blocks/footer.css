@@ -1,0 +1,19 @@
+.footer {
+  font-family: "Inter";
+  display: flex;
+  justify-content: center;
+  padding: 46px 0 24px;
+}
+
+.footer__copy {
+  font-size: 14px;
+  line-height: 16px;
+  margin: 0;
+}
+
+@media screen and (max-width: 544px) {
+  .footer__copy {
+    font-size: 14px;
+    line-height: 14px;
+  }
+}
