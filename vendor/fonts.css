@@ -1,12 +1,12 @@
 @font-face {
   font-family: "inter";
-  src: url("./fonts/Inter-Light.woff2");
+  src: url("./fonts/InterDisplay-Light.woff2");
   font-weight: 400;
 }
 
 @font-face {
   font-family: "inter";
-  src: url("./fonts/Inter-Medium.woff2");
+  src: url("./fonts/InterDisplay-Medium.woff2");
   font-weight: 600;
 }
 
