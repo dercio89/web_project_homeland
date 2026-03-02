@@ -21,9 +21,10 @@
 
 @media screen and (max-width: 544px) {
   .footer__copy {
-    max-width: 100%;
+    /*max-width: 100%;*/
     max-height: 14px;
     font-size: 14px;
     line-height: 14px;
+    width: 100%;
   }
 }
